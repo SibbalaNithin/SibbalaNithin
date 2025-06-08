@@ -1,5 +1,41 @@
 ## Hi there 👋
+# Nithin Sibbala
 
+Experienced Software Developer | Full-Stack Engineer | Technology Enthusiast
+
+---
+
+Welcome to my GitHub profile. I specialize in designing and developing robust, scalable software solutions with a focus on clean, maintainable code and best practices.
+
+## Professional Summary
+- Proficient in building web applications, backend services, and automation tools.
+- Strong background in [list key domains or industries, e.g., finance, healthcare, e-commerce].
+- Adept at working with modern technologies including JavaScript (React, Node.js), Python (Django, Flask), and cloud platforms.
+- Committed to continuous learning and open-source collaboration.
+
+## Core Competencies
+- **Languages:** JavaScript (ES6+), Python, Java, C++
+- **Frameworks & Libraries:** React, Node.js, Express, Django, Flask
+- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Tools & Platforms:** Git, Docker, Kubernetes, AWS, CI/CD pipelines
+
+## Open Source & Collaboration
+I actively contribute to open source projects and enjoy collaborating with other developers to solve challenging problems and improve code quality.
+
+## Get in Touch
+- 📧 [Email](mailto:your.email@example.com)
+- 🔗 [LinkedIn](https://linkedin.com/in/yourprofile)
+- 🌐 [Portfolio](https://yourwebsite.com)
+
+---
+
+### GitHub Stats
+
+![Nithin Sibbala's GitHub stats](https://github-readme-stats.vercel.app/api?username=SibbalaNithin&show_icons=true&theme=gruvbox)
+
+---
+
+Thank you for visiting my profile.
 <!--
 **SibbalaNithin/SibbalaNithin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
