@@ -10,21 +10,23 @@ Welcome to my GitHub profile. I specialize in designing and developing robust, s
 ## Professional Summary
 - Proficient in building web applications, backend services, and automation tools.
 - Strong background in [list key domains or industries, e.g., finance, healthcare, e-commerce].
-- Adept at working with modern technologies including JavaScript (React, Node.js), Python (Django, Flask), and cloud platforms.
+- Adept at working with modern technologies including JavaScript (React), Python (Flask).
 - Committed to continuous learning and open-source collaboration.
 
 ## Core Competencies
 - **Languages:** JavaScript (ES6+), Python, Java, C++
-- **Frameworks & Libraries:** React, Node.js, Express, Django, Flask
-- **Databases:** MySQL, PostgreSQL, MongoDB
-- **Tools & Platforms:** Git, Docker, Kubernetes, AWS, CI/CD pipelines
+- **Frameworks & Libraries:** React, Flask
+- **Databases:** MySQL
+- **Methodologies:** SDLC, SRS
+- **Tools & Platforms:** Git, GitHub
 
 ## Open Source & Collaboration
 I actively contribute to open source projects and enjoy collaborating with other developers to solve challenging problems and improve code quality.
 
 ## Get in Touch
-- 📧 [Email](mailto:your.email@example.com)
-- 🔗 [LinkedIn](https://linkedin.com/in/yourprofile)
+- 📧 [Email](mailto:sibbalanithin@gmail.com)
+- 🔗 [LinkedIn](www.linkedin.com/in/nithin-sibbala-b800a7246)
+)
 - 🌐 [Portfolio](https://yourwebsite.com)
 
 ---
