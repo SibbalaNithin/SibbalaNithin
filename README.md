@@ -14,7 +14,7 @@ Welcome to my GitHub profile. I specialize in designing and developing robust, s
 - Committed to continuous learning and open-source collaboration.
 
 ## Core Competencies
-- **Languages:** JavaScript (ES6+), Python, Java, C++
+- **Languages:** JavaScript (ES6+), Python
 - **Frameworks & Libraries:** React, Flask
 - **Databases:** MySQL
 - **Methodologies:** SDLC, SRS
