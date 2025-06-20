@@ -25,7 +25,7 @@ I actively contribute to open source projects and enjoy collaborating with other
 
 ## Get in Touch
 - 📧 [Email](mailto:sibbalanithin227@gmail.com)
-- 🔗 [LinkedIn](www.linkedin.com/in/nithin-sibbala-b800a7246)
+- 🔗 [LinkedIn](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
 - 🌐 [Portfolio](https://yourwebsite.com)
 
 ---
