@@ -24,9 +24,8 @@ Welcome to my GitHub profile. I specialize in designing and developing robust, s
 I actively contribute to open source projects and enjoy collaborating with other developers to solve challenging problems and improve code quality.
 
 ## Get in Touch
-- 📧 [Email](mailto:sibbalanithin@gmail.com)
+- 📧 [Email](mailto:sibbalanithin227@gmail.com)
 - 🔗 [LinkedIn](www.linkedin.com/in/nithin-sibbala-b800a7246)
-)
 - 🌐 [Portfolio](https://yourwebsite.com)
 
 ---
